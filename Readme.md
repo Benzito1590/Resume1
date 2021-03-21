@@ -2,7 +2,7 @@ Benzito Resume
 
 This is Resume website for Web Developer
 
-URL - https://benzito1590.github.io/Portfolio/
+URL - https://benzito1590.github.io/Resume/
  
 Copyright ©2021 All rights reserved | This Website is made with [Heart] by Benzito Bezuidenhout.
 
